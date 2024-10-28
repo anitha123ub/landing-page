@@ -1,4 +1,4 @@
-import { BotMessageSquare } from "lucide-react";
+import { BotMessageSquare } from 'lucide-react';
 import { BatteryCharging } from "lucide-react";
 import { Fingerprint } from "lucide-react";
 import { ShieldHalf } from "lucide-react";
@@ -60,7 +60,7 @@ export const testimonials = [
 
 export const features = [
   {
-    icon: <BotMessageSquare />,
+    icon:  <BotMessageSquare />,
     text: "Drag-and-Drop Interface",
     description:
       "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
@@ -153,7 +153,7 @@ export const pricingOptions = [
   },
 ];
 
-export const resourcesLinks = [
+export const resourceLinks = [
   { href: "#", text: "Getting Started" },
   { href: "#", text: "Documentation" },
   { href: "#", text: "Tutorials" },
